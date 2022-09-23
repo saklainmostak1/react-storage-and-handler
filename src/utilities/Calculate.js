@@ -2,4 +2,8 @@ const add = (fast , second) =>{
     return fast + second
 }
 
-export default add ;
+const multiplay = (fast, second) =>{
+    return fast * second
+}
+
+export {add, multiplay}

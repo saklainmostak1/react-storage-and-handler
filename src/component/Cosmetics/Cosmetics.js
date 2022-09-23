@@ -1,5 +1,5 @@
 import React from 'react';
-import add from '../../utilities/Calculate';
+import {add }from '../../utilities/Calculate';
 
 const Cosmetics = () => {
     const fast = 55;
